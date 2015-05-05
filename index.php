@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>Teitex</title>
+	<title>Didesweb</title>
 	<style type="text/css"> 
 		* { text-align: center;}
 		#aside {
